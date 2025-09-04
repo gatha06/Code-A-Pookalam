@@ -1,0 +1,50 @@
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background: #fff3e6;
+  font-family: "Poppins", sans-serif;
+}
+
+.pookkalam {
+  position: relative;
+  width: 500px;
+  height: 500px;
+}
+
+/* Petal base */
+.petal {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 70px;
+  height: 140px;
+  border-radius: 50% 50% 0 0;
+  transform-origin: bottom center;
+}
+
+/* Colors for each ring */
+.layer1 .petal { background: #e91e63; }
+.layer2 .petal { background: #ff9800; width: 60px; height: 120px; }
+.layer3 .petal { background: #ffeb3b; width: 50px; height: 100px; }
+
+/* Center */
+.center {
+  position: absolute;
+  top: 350px;
+  left: 275px;
+  transform: translate(-50%, -50%);
+  width: 175px;
+  height: 175px;
+  background: white;
+  border-radius: 50%;
+  border: 6px solid #e91e63;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  color: #e91e63;
+  text-align: center;
+}
