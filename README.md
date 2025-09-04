@@ -5,7 +5,7 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Your Details
-- [Name] - [Branch] - [Semester]
+- [Gatha R] - [CSE] - [S3]
 
 
 
@@ -14,11 +14,12 @@ Welcome to CODE-A-പൂക്കളം, a creative coding challenge scheduled f
 
 
 ### Pookalam Description
-Brief description about your pookalam. What makes it special and different.
+This is a very simple pookalam, I have always loved simple pookalams rather than the complicated looking ones cause my lazy self do not have the patience to draw a complex pookalam. So I'd say this pookalam is the one for lazy people like me!
 
 
 
 ### Technologies Used 
+HTML, CSS, JAVASCRIPT
 
 
 ### Video explaining How you build the pookalam
