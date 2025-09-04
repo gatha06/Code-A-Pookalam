@@ -27,6 +27,12 @@ HTML, CSS, JAVASCRIPT
 
 
 ### Screenshots
+<img width="1574" height="926" alt="Screenshot 2025-09-04 230730" src="https://github.com/user-attachments/assets/4b412bed-638c-4336-a050-a01467bcded3" />
+<img width="1466" height="941" alt="Screenshot 2025-09-04 230843" src="https://github.com/user-attachments/assets/7a9c8254-028c-4ab4-8e3a-9360323b6885" />
+<img width="1153" height="823" alt="Screenshot 2025-09-04 230909" src="https://github.com/user-attachments/assets/5590f407-4909-4fda-a9d8-e6d30ba855f4" />
+
+
+
 
 
 
